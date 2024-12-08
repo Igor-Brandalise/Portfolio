@@ -83,7 +83,7 @@ nav a {
     position: relative; /* Necessário para a linha aparecer em relação ao texto */
     display: inline-block; /* Garante que o link seja tratado como bloco */
     margin-bottom: 4px; /* Ajuste o valor conforme necessário */
-    transition: color 0.3s ease-in-out; /* Suaviza a transição de cor */
+    transition: color 0.3s ease-in-out; 
 }
 
 nav a::before {
